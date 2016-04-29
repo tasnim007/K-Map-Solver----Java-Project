@@ -33,4 +33,4 @@ There is a text field which indicates whether our simplified expression is right
 
 
 ## Screen shot of the project:
-![ScreenShot](https://drive.google.com/file/d/0BxEv6G7Lnk9YbVpmYlhxV1JJV2s/view?usp=sharing)
+![ScreenShot](https://github.com/tasnim007/K-Map-Solver----Java-Project/blob/master/dist/kmap.jpg)
