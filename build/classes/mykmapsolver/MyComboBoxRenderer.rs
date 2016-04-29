@@ -1,0 +1,2 @@
+mykmapsolver.MyComboBoxRenderer
+mykmapsolver.MyComboBoxEditor
